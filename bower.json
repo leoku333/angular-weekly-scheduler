@@ -1,9 +1,9 @@
 {
-  "name": "angular-scheduler",
+  "name": "angular-job-scheduler",
   "appPath": "app",
   "version": "0.0.9",
   "description": "A scheduler for AngularJS",
-  "homepage": "https://github.com/AfferoLab-Flow/angular-weekly-scheduler",
+  "homepage": "https://github.com/leoku333/angular-weekly-scheduler",
   "license": "MIT",
   "main": [
     "dist/js/ng-scheduler.js"
